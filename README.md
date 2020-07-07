@@ -11,4 +11,4 @@ USAGE
 
 UIImage(systemName: SFSym._4k_tv.name)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z7CNMLR76T6MG&source=url
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z7CNMLR76T6MG&source=url)
